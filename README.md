@@ -13,7 +13,7 @@ sudo apt-get install libarmadillo-dev libarmadillo6
 ```
 Before installing Armadillo, it's recommended to install LAPACK, BLAS and ATLAS
 
-##Input:
+## Input:
 
 p – number of neuron;
 
